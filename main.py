@@ -1,3 +1,8 @@
-# cytrinc 0.0.1
+# cytrinc 0.0.2
+# this is tested in vscode
 
-print("Hello, World")
+print("welcome to cytrinc")
+
+name = input("type a name: ")
+
+print("Hello,", name + "!")
